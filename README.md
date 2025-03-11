@@ -21,8 +21,6 @@ In distributed setups, ensuring consistency between the cache and the vector dat
 
 ##### Question #2:
 
-##### ❓ Question #2:
-
 What are some limitations you can see with prompt caching approach? When is this most/least useful. Discuss with your group!
 
 Limitations of the prompt caching approach used in the provided code. 
