@@ -2,7 +2,7 @@
 
 ##### Question #1:
 
-What are some limitations you can see with ache-backed embeddings approach? When is this most/least useful. Discuss with your group!
+What are some limitations you can see with cache-backed embeddings approach? When is this most/least useful. Discuss with your group!
 
 Limitations of the cache-backed embeddings approach used in the provided code. 
 
